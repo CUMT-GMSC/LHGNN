@@ -1,0 +1,8 @@
+dhg==0.9.4
+numpy==1.23.5
+openpyxl==3.1.2
+pandas==1.5.3
+scikit_learn==1.2.2
+torch==1.13.0+cu116
+torchmetrics==0.8.2
+tqdm==4.65.0
