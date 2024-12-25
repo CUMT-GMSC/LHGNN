@@ -1,5 +1,5 @@
 ﻿# Simple Tutorial
-Hello! This code is about the higher-order link prediction problem, and the details of our work are presented in this paper "Higher-Order Link Prediction via LHGNN-HA]{Higher-Order Link Prediction via Light Hypergraph Neural Network and Hybrid Aggregator".
+Hello! This code is about the higher-order link prediction problem, and the details of our work are presented in this paper "Higher-Order Link Prediction via Light Hypergraph Neural Network and Hybrid Aggregator".
 
 ## Installing Dependencies
 
